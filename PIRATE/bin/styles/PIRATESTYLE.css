@@ -1,0 +1,14 @@
+.root {
+	-fx-background-color: transparent;
+}
+
+.eyeBouton {
+	-fx-background-color: transparent;
+	-fx-background-radius:1.0em;
+}
+.hatBouton {
+	-fx-opacity: 0.0;
+}
+.parrotBouton {
+	-fx-opacity: 0.0;
+}
